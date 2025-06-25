@@ -1,6 +1,7 @@
 # Nimbus for visionOS Issue Tracker
 
 Welcome to the issue tracker for **Nimbus for visionOS**. 
+
 Use this repository to report bugs or request features.
 
 ## About Nimbus
