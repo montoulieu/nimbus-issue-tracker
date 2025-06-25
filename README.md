@@ -20,7 +20,7 @@ Credentials are securely stored in the Keychain.
 Nimbus does not track or sell your data.
 
 ## Creating an Issue
-1. [Open a new issue](https://github.com/your-org/nimbus-vision-issues/issues/new).
+1. [Open a new issue](https://github.com/montoulieu/nimbus-issue-tracker/issues/new).
 2. Provide a clear summary and steps to reproduce the problem.
 3. Include your device, visionOS version, and any relevant logs.
 4. **Attach screenshots** whenever possible. On Apple Vision devices press the **Digital Crown** and **top button** simultaneously to capture a screenshot. Drag the file into the GitHub issue to upload it.
