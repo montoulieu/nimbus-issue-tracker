@@ -1,6 +1,7 @@
 # Nimbus for visionOS Issue Tracker
 
-Welcome to the issue tracker for **Nimbus for visionOS**. Use this repository to report bugs or request features for the Nimbus app.
+Welcome to the issue tracker for **Nimbus for visionOS**. 
+Use this repository to report bugs or request features.
 
 ## About Nimbus
 Nimbus is a privacy‑focused client for the Bluesky/AT Protocol built for Apple Vision devices. 
